@@ -1,7 +1,7 @@
 # EMO
-"install numpy"
-"install pandas"
-"install matplotlib"
-"install seaborn"
-"install sklearn"
+"install numpy"\n
+"install pandas"\n
+"install matplotlib"\n
+"install seaborn"\n
+"install sklearn"\n
 "install tensorflow"
